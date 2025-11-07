@@ -4,9 +4,9 @@ A command-line tool, that automatically sort files in your directories so you wi
 
 Features:
 - v0.1
-	- [ ] notify about file duplicates
-	  - [ ] hash
-		- [ ] name + file size
+	- [x] notify about file duplicates
+	  - [x] hash
+		- [x] name + file size
 	- [ ] notify about archives and unpacked archives pairs
 	- [ ] move the files to folders according the file type (specified in the config)
 - v*.*
